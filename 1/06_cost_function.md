@@ -28,7 +28,9 @@ This means "find me the values of *ϴ<sub>0</sub>* and *ϴ<sub>1</sub>* so that 
 
 To rewrite this more cleanly, by convention we define a cost function:
 
-*J*(*ϴ<sub>0</sub>ϴ<sub>1</sub>)* = 1/2*m*Σ(*h<sub>ϴ</sub>*(*x*<sup>(*i*)</sup>)-*y*<sup>(*i*)</sup>)<sup>2</sup>
+*J*(*ϴ*<sub>0</sub>*ϴ*<sub>1</sub>) = 1/2*m*Σ(*h<sub>ϴ</sub>*(*x*<sup>(*i*)</sup>)-*y*<sup>(*i*)</sup>)<sup>2</sup>
+
+So what we want to do is minimize *ϴ*<sub>0</sub>, *ϴ*<sub>1</sub> for *J*(*ϴ*<sub>0</sub>, *ϴ*</sub>1</sub>)
 
 
 
