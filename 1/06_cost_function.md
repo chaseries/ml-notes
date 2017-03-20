@@ -24,11 +24,11 @@ The idea is that we choose ϴ<sub>0</sub> and ϴ<sub>1</sub> so that *h<sub>ϴ</
 
 ![Squared error function](http://i.imgur.com/VlVHIdq.png "Squared error function")
 
+This means "find me the values of *ϴ<sub>0</sub>* and *ϴ<sub>1</sub>* so that the 1/2*m* times the sum of squared errors between my predictions on the training set minus the actual values on the training set is minimized."
 
+To rewrite this more cleanly, by convention we define a cost function:
 
-
-
-
+*J*(*ϴ<sub>0</sub>ϴ<sub>1</sub>)* = 1/2*m*Σ(*h<sub>ϴ</sub>*(*x*<sup>(*i*)</sup>)-*y*<sup>(*i*)</sup>)<sup>2</sup>
 
 
 
