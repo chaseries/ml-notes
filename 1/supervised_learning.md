@@ -1,5 +1,9 @@
+# Week 1 - Supervised Learning
 
-* ***Supervised learning algorithm*** an algorithm that uses previous data sets to determine what might be a correct output
-* ***Regression*** a problem in which we try to predict a continuous-valued output
-* ***Classification*** 
+### Definitions
+* ***Supervised learning*** a machine learning paradigm that uses known data to help predict correct output
+* ***Regression*** a technique attempts to predict a continuous-valued output (e.g., predicting house prices)
+* ***Classification*** a technique that attempts to predict discrete valued outputs (e.g., whether or not someone has a malignant tumor)
+
+
 
