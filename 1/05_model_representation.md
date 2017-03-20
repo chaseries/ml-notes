@@ -8,7 +8,7 @@
 ## Notation used in this course
 
 * ***m*** the number of training examples
-* ***x***s input variables ("features")
-* ***y***s output variables ("target" variables)
+* ***x*** s input variables ("features")
+* ***y*** s output variables ("target" variables)
 * ***(x, y)*** a single training example
 * ***(x<sup>(i)</sup>, y<sup>(i)</sup>)*** the *i*th training example
