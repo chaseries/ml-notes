@@ -22,4 +22,4 @@ We must chose values the parameters ϴ<sub>0</sub> and ϴ<sub>1</sub>. This is e
 
 The idea is that we choose ϴ<sub>0</sub> and ϴ<sub>1</sub> so that *h<sub>ϴ</sub>*(*x*) is close to *y* for our training examples (*x*, *y*). Formally, in linear regression we want to solve a minimization problem *minimize ϴ*<sub>0</sub>*ϴ*<sub>1</sub>. That is, we want the difference between *h<sub>ϴ</sub>*(*x*) and *y* to be small. We might try the squared difference equation to evaluate this. Since I can't do LaTeX, this image will have to suffice:
 
-![Squared error function](![some text](http://i.imgur.com/VlVHIdq.png "Some title") "Squared error function")
+![Squared error function]([some text](http://i.imgur.com/VlVHIdq.png "Some title") "Squared error function")
